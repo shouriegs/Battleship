@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/battleship.dir/battleshipplayer.cpp.o CMakeFiles/battleship.dir/vehicle.cpp.o CMakeFiles/battleship.dir/battleship.cpp.o  -o battleship 
